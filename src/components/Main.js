@@ -3,7 +3,7 @@ import styles from '../styles/main.module.css';
 
 class Main extends Component {
     render() {
-        console.log(this.props);
+        // console.log(this.props);
         return (
             <div className={styles.main}>
                 {this.props.children}
