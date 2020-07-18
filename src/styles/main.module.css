@@ -1,0 +1,10 @@
+.main{
+    min-height: 380px;
+    width: 690px;
+    background-color: red;
+    display: inline-block;
+    vertical-align: middle;
+    left: 430px;
+    padding-top: 10px;
+    padding-left: 10px;
+   }
